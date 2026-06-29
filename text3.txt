@@ -1,3 +1,2 @@
 I am adding this text
-Delete it
-I love github
+Delete this text
