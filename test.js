@@ -3,6 +3,9 @@ function test2() {
   console.log("test2 again locally");
   console.log("test again 2");
 }
+function test(){
+  console.log("test remote")
+}
 function test1() {
   console.log("test1");
 }
