@@ -6,6 +6,9 @@ function test2() {
 function test4() {
   console.log("kire");
 }
+function test() {
+  console.log("test remote");
+}
 function test1() {
   console.log("test1");
 }
