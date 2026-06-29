@@ -1,5 +1,6 @@
-function test2(){
-  console.log("test2")
+function test2() {
+  console.log("test2");
+  console.log("test2 again locally");
 }
 function test1() {
   console.log("test1");
